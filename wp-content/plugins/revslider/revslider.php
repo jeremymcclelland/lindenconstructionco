@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Slider Revolution
-Plugin URI: http://revolution.themepunch.com/
+Plugin URI: https://revolution.themepunch.com/
 Description: Slider Revolution - Premium responsive slider
 Author: ThemePunch
-Version: 5.4.7.1
-Author URI: http://themepunch.com
+Version: 5.4.8
+Author URI: https://themepunch.com
 */
 
 // If this file is called directly, abort.
@@ -23,7 +23,7 @@ if ( ! class_exists( 'Vamtam_Updates_2' ) ) {
 
 new Vamtam_Updates_2( __FILE__ );
 
-$revSliderVersion	= '5.4.7.1';
+$revSliderVersion	= '5.4.8';
 $revSliderAsTheme	= false;
 $revslider_screens	= array();
 $revslider_fonts	= array();

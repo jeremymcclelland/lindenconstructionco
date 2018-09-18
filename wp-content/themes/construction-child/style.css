@@ -1,0 +1,32 @@
+/*
+Theme Name: Construction Child
+Author: Vamtam
+Author URI: http://vamtam.com
+Template: construction
+*/
+
+
+
+/*
+
+put your child theme styles here
+
+
+you don't need any @import rules
+
+*/
+
+
+.footer-sidebars-wrapper {
+    padding-top: 30px;
+}
+
+#main-menu .menu > .menu-item {
+
+    padding: 4px 15px 0 15px;
+}
+
+div.wpcf7 .wpcf7-form .wpcf7-submit {
+	background: #F0542D !important;
+	border: 1px solid #F0542D;
+}

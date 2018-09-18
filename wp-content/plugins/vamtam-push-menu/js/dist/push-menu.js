@@ -227,6 +227,8 @@
 
 						var el = $( e.target );
 
+						console.log( e, e.target );
+
 						// back button
 						if ( el.hasClass( 'mp-back' ) ) {
 
@@ -259,11 +261,15 @@
 										window.open( href );
 									} else {
 										window[target].location = href;
+
+										if ( href[0] === '#' ) {
+											self._resetMenu();
+										}
 									}
 								} catch (ex) {
 									console.log( e );
+									self._resetMenu();
 								}
-								self._resetMenu();
 							}
 						}
 					}

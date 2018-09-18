@@ -573,8 +573,8 @@ ul.bxslider {
 .bx-wrapper .bx-pager.bx-default-pager a:hover,
 .bx-wrapper .bx-pager.bx-default-pager a.active,
 .bx-wrapper .bx-pager.bx-default-pager a:focus {
-  background: #F0542D;
-  border-color: #F0542D;
+  background: #003f7c;
+  border-color: #003f7c;
 }
 .bx-wrapper .bx-pager-item,
 .bx-wrapper .bx-controls-auto .bx-controls-auto-item {
@@ -623,7 +623,7 @@ ul.bxslider {
   display: none;
 }
 .bx-wrapper .bx-controls-direction a:hover {
-  color: #F0542D;
+  color: #003f7c;
   text-decoration: none;
 }
 .bx-wrapper .bx-controls-auto {
@@ -688,7 +688,7 @@ p {
   color: #767676;
 }
 .accent-1 {
-  color: #F0542D;
+  color: #003f7c;
 }
 .accent-2 {
   color: #364352;
@@ -712,7 +712,7 @@ p {
   color: #ffffff;
 }
 .hover-accent-1:hover {
-  color: #F0542D;
+  color: #003f7c;
 }
 .hover-accent-2:hover {
   color: #364352;
@@ -738,12 +738,12 @@ p {
 *,
 p,
 .main-container {
-  font: normal 14px/20px "Raleway";
+  font: normal 14px/20px "PT Sans";
 }
 .page-header .desc,
 .page-header .desc a,
 em {
-  font: italic 14px/18px "Raleway";
+  font: italic 14px/18px "PT Sans";
   color: #898989;
 }
 h1,
@@ -753,13 +753,13 @@ h1 a:visited {
 }
 h1,
 h1 a {
-  font: bold 36px/42px "Raleway";
+  font: bold 36px/42px "Montserrat";
 }
 footer.main-footer h1 a {
-  font: bold 36px/42px "Raleway";
+  font: bold 36px/42px "Montserrat";
 }
 h1 em {
-  font: italic 36px/42px "Raleway";
+  font: italic 36px/42px "PT Sans";
   color: #4A4F55;
 }
 h2,
@@ -769,13 +769,13 @@ h2 a:visited {
 }
 h2,
 h2 a {
-  font: 800 26px/30px "Raleway";
+  font: 800 26px/30px "Montserrat";
 }
 footer.main-footer h2 a {
-  font: 800 26px/30px "Raleway";
+  font: 800 26px/30px "Montserrat";
 }
 h2 em {
-  font: italic 26px/30px "Raleway";
+  font: italic 26px/30px "PT Sans";
   color: #364352;
 }
 h3,
@@ -785,13 +785,13 @@ h3 a:visited {
 }
 h3,
 h3 a {
-  font: normal 24px/30px "Raleway";
+  font: normal 24px/30px "Montserrat";
 }
 footer.main-footer h3 a {
-  font: normal 24px/30px "Raleway";
+  font: normal 24px/30px "Montserrat";
 }
 h3 em {
-  font: italic 24px/30px "Raleway";
+  font: italic 24px/30px "PT Sans";
   color: #4A4F55;
 }
 h4,
@@ -801,13 +801,13 @@ h4 a:visited {
 }
 h4,
 h4 a {
-  font: 300 20px/26px "Raleway";
+  font: 300 20px/26px "Montserrat";
 }
 footer.main-footer h4 a {
-  font: 300 20px/26px "Raleway";
+  font: 300 20px/26px "Montserrat";
 }
 h4 em {
-  font: italic 20px/26px "Raleway";
+  font: italic 20px/26px "PT Sans";
   color: #4A4F55;
 }
 h5,
@@ -817,13 +817,13 @@ h5 a:visited {
 }
 h5,
 h5 a {
-  font: 600 12px/14px "Raleway";
+  font: 600 12px/14px "Montserrat";
 }
 footer.main-footer h5 a {
-  font: 600 12px/14px "Raleway";
+  font: 600 12px/14px "Montserrat";
 }
 h5 em {
-  font: italic 12px/14px "Raleway";
+  font: italic 12px/14px "PT Sans";
   color: #242323;
 }
 h6,
@@ -833,13 +833,13 @@ h6 a:visited {
 }
 h6,
 h6 a {
-  font: bold 10px/11px "Arial";
+  font: bold 10px/11px "Montserrat";
 }
 footer.main-footer h6 a {
-  font: bold 10px/11px "Arial";
+  font: bold 10px/11px "Montserrat";
 }
 h6 em {
-  font: italic 10px/11px "Raleway";
+  font: italic 10px/11px "PT Sans";
   color: #6A6A6A;
 }
 small {
@@ -848,7 +848,7 @@ small {
 }
 a {
   text-decoration: none;
-  color: #F0542D;
+  color: #003f7c;
   transition: color .3s;
 }
 a .icon.shortcode.use-hover {
@@ -856,7 +856,7 @@ a .icon.shortcode.use-hover {
 }
 a:hover {
   text-decoration: none;
-  color: #5C6268;
+  color: #F0542D;
 }
 a:hover .icon.shortcode.use-hover {
   color: #364352;
@@ -877,14 +877,14 @@ h6 {
   margin-bottom: 0.6em;
 }
 .vamtam-font-style-1 {
-  font: bold 30px/36px "Lato";
+  font: bold 30px/36px "PT Sans";
   padding-bottom: 10px;
 }
 .vamtam-font-style-1.with-color {
   color: #898989;
 }
 .vamtam-font-style-2 {
-  font: 600 46px/48px "Raleway";
+  font: 600 46px/48px "PT Sans";
 }
 .vamtam-font-style-2.with-color {
   color: #F8E71C;
@@ -1131,7 +1131,7 @@ h6 {
   transition: color .3s ease-out;
 }
 .socialcount > li > a:hover {
-  color: #5C6268;
+  color: #F0542D;
 }
 .socialcount > li,
 .socialcount > li > a:focus,
@@ -1358,8 +1358,8 @@ h6 {
   border-widht: 2px;
   padding: 0;
   text-align: center !important;
-  background: #F0542D;
-  color: #ffffff;
+  background: #003f7c;
+  color: #e2f1ff;
   padding: 0.8em 1.6em;
 }
 .submit-button-style,
@@ -1406,7 +1406,7 @@ h6 {
   text-decoration: none;
 }
 .submit-button-style span {
-  color: #ffffff;
+  color: #e2f1ff;
 }
 .submit-button-style:hover,
 .submit-button-style:focus,
@@ -1442,8 +1442,8 @@ input[type=submit] {
   border-widht: 2px;
   padding: 0;
   text-align: center !important;
-  background: #F0542D;
-  color: #ffffff;
+  background: #003f7c;
+  color: #e2f1ff;
   padding: 0.8em 1.6em;
 }
 .button,
@@ -1529,7 +1529,7 @@ input[type=submit]:hover span {
 .vamtam-button span,
 input[type=button] span,
 input[type=submit] span {
-  color: #ffffff;
+  color: #e2f1ff;
 }
 .button:hover,
 .button:focus,
@@ -2018,32 +2018,32 @@ input[type=submit]:active span {
 }
 .button.accent1,
 .vamtam-button.accent1 {
-  background: #F0542D;
-  color: #ffffff;
+  background: #003f7c;
+  color: #e2f1ff;
 }
 .button.accent1 span,
 .vamtam-button.accent1 span {
-  color: #ffffff;
+  color: #e2f1ff;
 }
 .button.accent1.button-border,
 .vamtam-button.accent1.button-border {
-  border: 2px solid #F0542D;
+  border: 2px solid #003f7c;
 }
 .button.accent1.button-border:hover span,
 .button.accent1.button-border span,
 .vamtam-button.accent1.button-border:hover span,
 .vamtam-button.accent1.button-border span {
-  color: #F0542D !important;
+  color: #003f7c !important;
 }
 .button.accent1.button-style-3,
 .vamtam-button.accent1.button-style-3 {
   border: none;
-  background: #F0542D;
+  background: #003f7c;
   padding: 0px !important;
 }
 .button.accent1.button-style-3 span,
 .vamtam-button.accent1.button-style-3 span {
-  color: #ffffff;
+  color: #e2f1ff;
 }
 .button.accent1.button-style-3 span.icon,
 .vamtam-button.accent1.button-style-3 span.icon {
@@ -2052,12 +2052,12 @@ input[type=submit]:active span {
 .button.accent1.button-style-3 span.icon:first-child,
 .vamtam-button.accent1.button-style-3 span.icon:first-child {
   border-right: solid 1px;
-  border-color: #ffffff;
+  border-color: #e2f1ff;
 }
 .button.accent1.button-style-3 span.icon:last-child,
 .vamtam-button.accent1.button-style-3 span.icon:last-child {
   border-left: solid 1px;
-  border-color: #ffffff;
+  border-color: #e2f1ff;
 }
 .button,
 .button.accent2,
@@ -2392,7 +2392,7 @@ input[type=submit]:active span {
 .vamtam-button.hover-accent1:hover,
 .vamtam-button.hover-accent1:focus,
 .vamtam-button.hover-accent1:active {
-  background: #F0542D;
+  background: #003f7c;
 }
 .button:hover,
 .button:hover span,
@@ -2418,7 +2418,7 @@ input[type=submit]:active span {
 .vamtam-button.hover-accent1:focus span,
 .vamtam-button.hover-accent1:active,
 .vamtam-button.hover-accent1:active span {
-  color: #ffffff;
+  color: #7cbfff;
 }
 .button.button-border:after,
 .button.button-style-3:after,
@@ -2435,7 +2435,7 @@ input[type=submit]:active span {
   height: 0;
   bottom: 0;
   left: 0;
-  background: #F0542D;
+  background: #003f7c;
   transition: all 0.3s;
 }
 .button.button-border:hover:after,
@@ -2464,7 +2464,7 @@ input[type=submit]:active span {
 .vamtam-button.hover-accent1.button-border:hover span,
 .vamtam-button.hover-accent1.button-style-3:hover,
 .vamtam-button.hover-accent1.button-style-3:hover span {
-  border-color: #F0542D;
+  border-color: #003f7c;
 }
 .button.button-style-3:hover span,
 .button.hover-accent1.button-style-3:hover span,
@@ -2476,7 +2476,7 @@ input[type=submit]:active span {
 .button.hover-accent1.button-style-3:hover span.icon,
 .vamtam-button.button-style-3:hover span.icon,
 .vamtam-button.hover-accent1.button-style-3:hover span.icon {
-  border-color: #ffffff;
+  border-color: #7cbfff;
 }
 .button.button-style-3:hover span.icon:first-child,
 .button.hover-accent1.button-style-3:hover span.icon:first-child,
@@ -2508,7 +2508,7 @@ input[type=submit]:active span {
 .vamtam-button.button-border:focus span,
 .vamtam-button.hover-accent1.button-border:hover span,
 .vamtam-button.hover-accent1.button-border:focus span {
-  color: #F0542D;
+  color: #003f7c;
 }
 .button.button-border:hover span.btext:before,
 .button.button-border:focus span.btext:before,
@@ -2519,7 +2519,7 @@ input[type=submit]:active span {
 .vamtam-button.hover-accent1.button-border:hover span.btext:before,
 .vamtam-button.hover-accent1.button-border:focus span.btext:before {
   color: #ffffff;
-  background: #F0542D;
+  background: #003f7c;
 }
 .button.button-border:hover span.icon,
 .button.button-border:focus span.icon,
@@ -3325,7 +3325,7 @@ a.button.full,
 }
 .comments-wrapper .sep-text .content h5,
 .comments-wrapper .sep-text .content h5 a {
-  font: normal 24px/30px "Raleway";
+  font: normal 24px/30px "Montserrat";
 }
 .comments-wrapper .sep-text .content a:hover {
   text-decoration: none;
@@ -3428,7 +3428,7 @@ a.button.full,
   margin-bottom: 6px;
 }
 .comments .comment-meta > .comment-author-link {
-  font: 300 20px/26px "Raleway";
+  font: 300 20px/26px "Montserrat";
 }
 .comments h6.comment-reply-link {
   position: absolute;
@@ -3439,11 +3439,11 @@ a.button.full,
 }
 .comments h6.comment-reply-link a {
   margin: 0 0 0 5px;
-  color: #F0542D;
+  color: #003f7c;
   font-size: 12px;
 }
 .comments h6.comment-reply-link a:hover {
-  color: #5C6268;
+  color: #F0542D;
 }
 .comments h6.comment-reply-link:before {
   position: relative;
@@ -3533,12 +3533,12 @@ a.button.full,
   border-widht: 2px;
   padding: 0;
   text-align: center !important;
-  background: #F0542D;
-  color: #ffffff;
+  background: #003f7c;
+  color: #e2f1ff;
   padding: 0.8em 1.6em;
-  color: #F0542D;
+  color: #003f7c;
   padding: 0.9em 1.5em;
-  border: 2px solid #F0542D;
+  border: 2px solid #003f7c;
   background: transparent;
 }
 #commentform #submit,
@@ -3585,7 +3585,7 @@ a.button.full,
   text-decoration: none;
 }
 #commentform #submit span {
-  color: #ffffff;
+  color: #e2f1ff;
 }
 #commentform #submit:hover,
 #commentform #submit:focus,
@@ -3608,7 +3608,7 @@ a.button.full,
   font-family: theme;
 }
 #commentform #submit:hover {
-  background: #F0542D;
+  background: #003f7c;
   color: #ffffff;
 }
 #commentform input[type="checkbox"] {
@@ -3628,7 +3628,7 @@ a.button.full,
   padding: 20px;
 }
 .respond-box .respond-box-title.sep-text .content {
-  font: normal 24px/30px "Raleway";
+  font: normal 24px/30px "Montserrat";
   padding: 0 1em;
 }
 .respond-box .respond-box-title.sep-text .sep-text-line {
@@ -3695,12 +3695,12 @@ body.page-template-guestbook-php #commentform #submit {
   border-widht: 2px;
   padding: 0;
   text-align: center !important;
-  background: #F0542D;
-  color: #ffffff;
+  background: #003f7c;
+  color: #e2f1ff;
   padding: 0.8em 1.6em;
-  color: #F0542D;
+  color: #003f7c;
   padding: 0.9em 1.5em;
-  border: 2px solid #F0542D;
+  border: 2px solid #003f7c;
   background: transparent;
 }
 body.page-template-guestbook-php #commentform #submit,
@@ -3747,7 +3747,7 @@ body.page-template-guestbook-php #commentform #submit:hover span {
   text-decoration: none;
 }
 body.page-template-guestbook-php #commentform #submit span {
-  color: #ffffff;
+  color: #e2f1ff;
 }
 body.page-template-guestbook-php #commentform #submit:hover,
 body.page-template-guestbook-php #commentform #submit:focus,
@@ -3763,7 +3763,7 @@ body.page-template-guestbook-php #commentform #submit:active span {
   color: #ffffff;
 }
 body.page-template-guestbook-php #commentform #submit:hover {
-  background: #F0542D;
+  background: #003f7c;
   color: #ffffff;
 }
 body.page-template-guestbook-php .comments .bypostauthor:hover {
@@ -3783,7 +3783,7 @@ body.page-template-guestbook-php .respond-box p {
   color: #2B2F34;
 }
 body.page-template-guestbook-php .respond-box a {
-  color: #F0542D;
+  color: #003f7c;
 }
 body.page-template-guestbook-php .comments-title {
   text-align: center;
@@ -3859,11 +3859,11 @@ body.page-template-guestbook-php .comments .comment .comment-inner .comment-head
   margin-bottom: 10px;
 }
 #bbpress-forums .bbp-forum-title {
-  font: normal 24px/30px "Raleway";
+  font: normal 24px/30px "Montserrat";
 }
 #bbpress-forums .bbp-forum-info .bbp-forum-content,
 #bbpress-forums p.bbp-topic-meta {
-  font: normal 14px/20px "Raleway";
+  font: normal 14px/20px "PT Sans";
 }
 #bbpress-forums .bbp-breadcrumb p {
   margin: 0;
@@ -3875,7 +3875,7 @@ body.page-template-guestbook-php .comments .comment .comment-inner .comment-head
   margin: 0 -15px;
 }
 .tt_event_hours li {
-  border-left-color: #F0542D;
+  border-left-color: #003f7c;
   margin-left: 15px;
   margin-right: 15px;
 }
@@ -4024,14 +4024,14 @@ html.touch body.fixed-layout.mfp-zoom-out-cur .fixed-header-box {
 }
 .fixed-header-box .logo-wrapper .logo.text-logo,
 .fixed-header-box .logo-wrapper .logo.text-logo:hover {
-  color: #F0542D;
+  color: #003f7c;
 }
 .ie9 .fixed-header-box .logo-wrapper .logo img {
   position: relative;
   z-index: 3;
 }
 .fixed-header-box .logo-wrapper .logo-tagline {
-  font: bold 10px/11px "Arial";
+  font: bold 10px/11px "Montserrat";
   display: block;
   padding-top: 5px;
   color: #2B2F34;
@@ -4199,7 +4199,7 @@ header.main-header #header-text h4 {
 header.main-header #header-text h4 a {
   font-size: 16px;
   font-weight: 600;
-  color: #F0542D;
+  color: #003f7c;
 }
 header.main-header #header-text h4 a:hover {
   color: #7C8A8D;
@@ -4225,7 +4225,7 @@ header.main-header button.header-search:active {
   transform: translate(0,3px);
 }
 header.main-header button.header-search:hover {
-  color: #F0542D;
+  color: #003f7c;
 }
 header.main-header .search-wrapper:not(:last-child) {
   padding-right: 10px;
@@ -4620,7 +4620,7 @@ body.events-archive .meta-header h1 {
 }
 .page-header .post-siblings a span.icon:hover {
   background: none;
-  color: #F0542D;
+  color: #003f7c;
 }
 .page-header .post-siblings a[rel="prev"] span.icon,
 .page-header .post-siblings a[rel="next"] span.icon {
@@ -4696,7 +4696,7 @@ body.events-archive .meta-header h1 {
   color: #ffffff;
 }
 #header-breadcrumbs a {
-  color: #F0542D;
+  color: #003f7c;
 }
 #header-breadcrumbs:after {
   content: "";
@@ -4800,8 +4800,8 @@ body.events-archive .meta-header h1 {
 #main-menu .menu .sub-menu .menu-item.current-menu-ancestor > a,
 #main-menu .menu .sub-menu .menu-item:hover > a {
   text-decoration: none;
-  color: #F0542D;
-  border-left-color: #F0542D;
+  color: #003f7c;
+  border-left-color: #003f7c;
   border-bottom-color: #EDEDED;
   padding: 13px;
 }
@@ -4834,9 +4834,9 @@ body.sticky-header-type-half-over.sticky-header.wpv-not-scrolled .layout-logo-te
 #main-menu .menu > .menu-item.current-menu-ancestor > a,
 #main-menu .menu > .menu-item:hover > a {
   background-color: transparent;
-  color: #F0542D;
+  color: #003f7c;
   text-decoration: none;
-  border-bottom: solid 3px #F0542D;
+  border-bottom: solid 3px #003f7c;
   padding-bottom: 1em;
 }
 #main-menu .menu > .menu-item:hover > .sub-menu-wrapper {
@@ -4887,7 +4887,7 @@ body.sticky-header-type-half-over.sticky-header.wpv-not-scrolled .layout-logo-te
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: scroll;
-  background-color: #7c8a8d;
+  background-color: #003f7c;
   -webkit-background-size: auto;
   -moz-background-size: auto;
   background-size: auto;
@@ -5013,8 +5013,8 @@ body.sticky-header-type-half-over.sticky-header.wpv-not-scrolled .layout-logo-te
 .top-nav .menu li .sub-menu .menu-item.current-menu-ancestor > a,
 .top-nav .menu li .sub-menu .menu-item:hover > a {
   text-decoration: none;
-  color: #F0542D;
-  border-bottom-color: #F0542D;
+  color: #003f7c;
+  border-bottom-color: #003f7c;
   transition: all .4s;
 }
 #top-nav-social > a {
@@ -5037,7 +5037,7 @@ body.sticky-header-type-half-over.sticky-header.wpv-not-scrolled .layout-logo-te
   border-color: none;
 }
 #top-nav-social > a:hover .icon.shortcode.use-hover {
-  color: #F0542D !important;
+  color: #003f7c !important;
 }
 #top-nav-text .icon.shortcode {
   vertical-align: middle;
@@ -5055,8 +5055,8 @@ body.full-bg-slider #page {
   height: 100%;
 }
 ::selection {
-  color: #ffffff;
-  background: #F0542D;
+  color: #7cbfff;
+  background: #003f7c;
 }
 .vamtam-add-shadow {
   box-shadow: 0 1px 3px 1px #EDEDED;
@@ -5204,7 +5204,7 @@ body.boxed .page-wrapper > aside.right {
 }
 .page-wrapper > aside.left section.widget a,
 .page-wrapper > aside.right section.widget a {
-  color: #F0542D;
+  color: #003f7c;
   transition: all .2s ease;
 }
 .page-wrapper > aside.left section.widget a:hover,
@@ -5344,7 +5344,7 @@ code {
 .mejs-embed,
 .mejs-embed body,
 .mejs-container .mejs-controls {
-  background: #F0542D !important;
+  background: #003f7c !important;
 }
 .mejs-controls .mejs-time-rail .mejs-time-loaded {
   background: #21759b;
@@ -5435,7 +5435,7 @@ code {
   font-size: 14px;
   line-height: 28px;
   font-weight: 600;
-  font-family: "Raleway";
+  font-family: "PT Sans";
   color: #364352;
   text-decoration: none;
 }
@@ -5516,7 +5516,7 @@ code {
   left: 50%;
 }
 .mfp-vamtam .mfp-arrow:hover {
-  color: #F0542D;
+  color: #003f7c;
 }
 .mfp-vamtam .mfp-arrow-left:after {
   content: "\e607";
@@ -5546,7 +5546,7 @@ ol li {
   text-indent: 0;
 }
 .styled-list.icon-accent1 li:before {
-  color: #F0542D;
+  color: #003f7c;
 }
 .styled-list.icon-accent2 li:before {
   color: #364352;
@@ -5662,7 +5662,7 @@ input[type=button]:focus,
 input[type=tel]:focus,
 textarea:focus,
 select:focus {
-  border: 1px solid #F0542D !important;
+  border: 1px solid #003f7c !important;
 }
 input[type=text].invalid,
 input[type=tel].invalid,
@@ -5768,8 +5768,8 @@ footer.main-footer input[type=button],
 footer.main-footer input[type=tel],
 footer.main-footer textarea,
 footer.main-footer select {
-  background-color: #474b52;
-  color: #c8cbd0;
+  background-color: #0054a5;
+  color: #a5d3ff;
 }
 footer.main-footer input[type=text]::-webkit-input-placeholder,
 footer.main-footer input[type=tel]::-webkit-input-placeholder,
@@ -5784,7 +5784,7 @@ footer.main-footer input[type=button]::-webkit-input-placeholder,
 footer.main-footer input[type=tel]::-webkit-input-placeholder,
 footer.main-footer textarea::-webkit-input-placeholder,
 footer.main-footer select::-webkit-input-placeholder {
-  color: #9297a0;
+  color: #3fa0ff;
 }
 footer.main-footer input[type=text]:-ms-input-placeholder,
 footer.main-footer input[type=tel]:-ms-input-placeholder,
@@ -5799,7 +5799,7 @@ footer.main-footer input[type=button]:-ms-input-placeholder,
 footer.main-footer input[type=tel]:-ms-input-placeholder,
 footer.main-footer textarea:-ms-input-placeholder,
 footer.main-footer select:-ms-input-placeholder {
-  color: #9297a0;
+  color: #3fa0ff;
 }
 footer.main-footer input[type=text]::placeholder,
 footer.main-footer input[type=tel]::placeholder,
@@ -5814,7 +5814,7 @@ footer.main-footer input[type=button]::placeholder,
 footer.main-footer input[type=tel]::placeholder,
 footer.main-footer textarea::placeholder,
 footer.main-footer select::placeholder {
-  color: #9297a0;
+  color: #3fa0ff;
 }
 .fixed-header-box input[type=text],
 .fixed-header-box input[type=tel],
@@ -5942,7 +5942,7 @@ article > .page-content > section.portfolios > .wp-pagenavi {
   font-size: 12px;
 }
 .wp-pagenavi .current {
-  background-color: #F0542D;
+  background-color: #003f7c;
   color: #ffffff;
   font-size: 12px;
   font-weight: normal !important;
@@ -5955,8 +5955,8 @@ article > .page-content > section.portfolios > .wp-pagenavi {
 }
 .wp-pagenavi a:hover,
 .wp-pagenavi .current {
-  background-color: #F0542D;
-  border: solid 1px #F0542D !important;
+  background-color: #003f7c;
+  border: solid 1px #003f7c !important;
   color: #ffffff;
 }
 .wp-pagenavi .previouspostslink,
@@ -5971,7 +5971,7 @@ article > .page-content > section.portfolios > .wp-pagenavi {
 }
 .wp-pagenavi .previouspostslink:after,
 .wp-pagenavi .nextpostslink:after {
-  color: #F0542D;
+  color: #003f7c;
   font-size: 11px;
   font-family: theme;
   left: -2px;
@@ -5980,7 +5980,7 @@ article > .page-content > section.portfolios > .wp-pagenavi {
 }
 .wp-pagenavi .previouspostslink:after:hover,
 .wp-pagenavi .nextpostslink:after:hover {
-  color: #5C6268;
+  color: #F0542D;
 }
 .wp-pagenavi .previouspostslink:after {
   content: "\e006";
@@ -5990,20 +5990,20 @@ article > .page-content > section.portfolios > .wp-pagenavi {
 }
 .wp-pagenavi span.pages {
   float: left;
-  font: normal 14px/20px "Raleway";
+  font: normal 14px/20px "PT Sans";
   font-size: 12px;
   padding: 0 !important;
 }
 .wp-pagenavi a.page {
   background: #ffffff;
-  color: #F0542D;
+  color: #003f7c;
   font-size: 12px;
 }
 .wp-pagenavi a.page:hover {
-  color: #5C6268;
+  color: #F0542D;
 }
 .wp-pagenavi a.page:visited {
-  color: #F0542D;
+  color: #003f7c;
 }
 .wp-pagenavi a,
 .wp-pagenavi span,
@@ -6044,7 +6044,7 @@ article > .page-content > section.portfolios > .wp-pagenavi {
 }
 .comment-paging .prev:after,
 .comment-paging .next:after {
-  color: #F0542D;
+  color: #003f7c;
   font-size: 12px;
   font-family: theme;
   position: relative;
@@ -6052,7 +6052,7 @@ article > .page-content > section.portfolios > .wp-pagenavi {
 }
 .comment-paging .prev:after:hover,
 .comment-paging .next:after:hover {
-  color: #5C6268;
+  color: #F0542D;
 }
 .comment-paging .prev:after {
   content: "\e006";
@@ -6064,19 +6064,19 @@ article > .page-content > section.portfolios > .wp-pagenavi {
 }
 .comment-paging span.pages {
   float: left;
-  font: normal 14px/20px "Raleway";
+  font: normal 14px/20px "PT Sans";
   padding: 0 !important;
 }
 .comment-paging a.page-numbers {
   background: #ffffff;
-  color: #F0542D;
+  color: #003f7c;
   font-size: 12px;
 }
 .comment-paging a.page-numbers:hover {
-  color: #5C6268;
+  color: #F0542D;
 }
 .comment-paging a.page-numbers:visited {
-  color: #F0542D;
+  color: #003f7c;
 }
 .load-more {
   margin: 50px auto 50px auto;
@@ -6103,16 +6103,16 @@ article > .page-content > section.portfolios > .wp-pagenavi {
   position: relative;
   z-index: 555;
   text-transform: uppercase;
-  font: 500 1.4em/1 "Raleway";
+  font: 500 1.4em/1 "Montserrat";
 }
 .load-more .button.lm-btn span:hover {
   text-decoration: none;
 }
 .load-more .button.lm-btn:hover {
-  border-color: #F0542D;
+  border-color: #003f7c;
 }
 .load-more .button.lm-btn:hover span {
-  color: #F0542D !important;
+  color: #003f7c !important;
 }
 .load-more + .share-btns {
   margin-top: 30px;
@@ -6146,11 +6146,11 @@ article > .page-content > section.portfolios > .wp-pagenavi {
 .wpv-accordion .tab.ui-state-active .ui-icon:after,
 .wpv-accordion .tab.ui-state-selected .ui-icon:after {
   content: "\e60f";
-  color: #F0542D !important;
+  color: #003f7c !important;
   font-family: theme;
 }
 .wpv-accordion .tab.ui-state-active.has-bg {
-  background: #F0542D;
+  background: #003f7c;
 }
 .wpv-accordion .tab.ui-state-active.has-bg .inner {
   opacity: 1;
@@ -6161,7 +6161,7 @@ article > .page-content > section.portfolios > .wp-pagenavi {
   cursor: pointer;
   outline: none !important;
   display: block;
-  font: 300 20px/26px "Raleway";
+  font: 300 20px/26px "Montserrat";
   color: #ffffff;
   background-color: #364352;
   transition: opacity .3s ease;
@@ -6183,7 +6183,7 @@ article > .page-content > section.portfolios > .wp-pagenavi {
 }
 .wpv-accordion .tab .ui-icon:after {
   content: "\e60e";
-  color: #F0542D;
+  color: #003f7c;
   font-family: theme;
 }
 .wpv-accordion .pane .inner {
@@ -6222,13 +6222,13 @@ blockquote {
 }
 blockquote p,
 blockquote {
-  font: normal 24px/30px "Raleway";
+  font: normal 24px/30px "Montserrat";
   font-size: 1.2em;
   font-weight: 300;
 }
 blockquote.small p,
 blockquote.small {
-  font: normal 14px/20px "Raleway";
+  font: normal 14px/20px "PT Sans";
   margin-bottom: 0;
 }
 blockquote.simple {
@@ -6265,7 +6265,7 @@ blockquote.simple .quote-title {
 }
 blockquote.simple .quote-title,
 blockquote.simple .quote-title a {
-  color: #F0542D;
+  color: #003f7c;
 }
 blockquote.simple .quote-title .the-title:not(:last-child) {
   padding-right: 3px;
@@ -6279,7 +6279,7 @@ blockquote.simple .quote-title .icon {
   padding-bottom: 2px;
 }
 blockquote.simple .quote-text {
-  font: normal 14px/20px "Raleway";
+  font: normal 14px/20px "PT Sans";
   overflow: hidden;
   font-weight: normal;
 }
@@ -6289,8 +6289,8 @@ blockquote cite {
 }
 blockquote cite,
 blockquote cite a {
-  font: 600 12px/14px "Raleway";
-  color: #F0542D;
+  font: 600 12px/14px "Montserrat";
+  color: #003f7c;
 }
 blockquote cite a {
   vertical-align: middle;
@@ -6390,7 +6390,7 @@ blockquote p:last-child {
   transition: color .3s ease;
 }
 .loop-wrapper .post-date .top-part {
-  font: 800 26px/30px "Raleway";
+  font: 800 26px/30px "Montserrat";
   color: #7C8A8D;
   line-height: 1;
   font-size: 45px;
@@ -6399,7 +6399,7 @@ blockquote p:last-child {
   padding-bottom: 10px;
 }
 .loop-wrapper .post-date .bottom-part {
-  font: 600 12px/14px "Raleway";
+  font: 600 12px/14px "Montserrat";
   color: #D8D8D8;
   padding-top: 10px;
   line-height: 1;
@@ -6469,12 +6469,12 @@ blockquote p:last-child {
   color: #D8D8D8;
 }
 .loop-wrapper .post-article .post-content-outer .post-meta a:hover {
-  color: #F0542D;
+  color: #003f7c;
 }
 .loop-wrapper .post-article .post-content-outer .post-meta nav > div:not(.post-actions),
 .loop-wrapper .post-article .post-content-outer .post-meta .post-actions > div,
 .loop-wrapper .post-article .post-content-outer .post-meta .post-edit-link {
-  font: bold 10px/11px "Arial";
+  font: bold 10px/11px "Montserrat";
   float: left;
   padding-right: 20px;
   min-height: 20px;
@@ -6534,7 +6534,7 @@ blockquote p:last-child {
   color: #D8D8D8;
 }
 .loop-wrapper .post-article .post-content-outer .post-meta .post-actions .comment-count a:hover {
-  color: #F0542D;
+  color: #003f7c;
 }
 .page-content label[for|=pwbox] {
   position: relative;
@@ -6560,7 +6560,7 @@ blockquote p:last-child {
 }
 .post-article header h3,
 .post-article header h3 a {
-  color: #F0542D;
+  color: #003f7c;
   line-height: 1.3em !important;
 }
 .post-article header a {
@@ -6568,7 +6568,7 @@ blockquote p:last-child {
 }
 .post-article header a:hover {
   text-decoration: none;
-  color: #5C6268;
+  color: #F0542D;
 }
 .post-article .post-subheader {
   display: table;
@@ -6631,7 +6631,7 @@ blockquote p:last-child {
 .post-article .blog-buttons a .icon {
   margin: 0 8px 0 0;
   padding: 0;
-  color: #F0542D;
+  color: #003f7c;
   font-size: 16px;
 }
 .post-article .standard-post-format .the-content .post-meta,
@@ -6705,7 +6705,7 @@ blockquote p:last-child {
 }
 .post-article .quote-post-format blockquote.large .quote-text,
 .post-article .quote-post-format blockquote.large .quote-text p {
-  font: normal 24px/30px "Raleway";
+  font: normal 24px/30px "Montserrat";
 }
 .post-article .quote-post-format .cite img {
   border-bottom: 1px solid #EDEDED;
@@ -6862,7 +6862,7 @@ body.full .related-posts:before {
 }
 .loop-wrapper.news .post-article .post-content-outer,
 .loop-wrapper.news .post-article .post-content-outer p {
-  font: normal 14px/20px "Raleway";
+  font: normal 14px/20px "PT Sans";
   font-size: inherit;
   margin-bottom: 0.5em;
 }
@@ -6882,19 +6882,19 @@ body.full .related-posts:before {
 }
 .loop-wrapper.news .post-content-wrapper h3,
 .loop-wrapper.news .post-content-wrapper h3 a {
-  color: #F0542D;
+  color: #003f7c;
   font-weight: normal;
   font-size: 1.2em;
 }
 .loop-wrapper.news .post-content-wrapper h3:hover,
 .loop-wrapper.news .post-content-wrapper h3 a:hover {
-  color: #5C6268;
+  color: #F0542D;
 }
 .loop-wrapper.news .comment-count {
   position: relative;
   display: inline-block;
   float: right;
-  background: #F0542D;
+  background: #003f7c;
   margin: 0;
   color: #ffffff;
 }
@@ -6906,7 +6906,7 @@ body.full .related-posts:before {
   display: block;
 }
 .loop-wrapper.news .comment-count a:hover {
-  color: #F0542D;
+  color: #003f7c;
   background: #364352;
 }
 .loop-wrapper.news .post-actions-wrapper {
@@ -6953,7 +6953,7 @@ html.touch .loop-wrapper.news .post-actions-wrapper {
   padding: 10px 0px 10px 20px;
 }
 .loop-wrapper.news .post-actions-wrapper a:hover .icon {
-  color: #F0542D;
+  color: #003f7c;
 }
 .loop-wrapper.news .post-content-meta,
 .loop-wrapper.news .author {
@@ -6971,11 +6971,11 @@ html.touch .loop-wrapper.news .post-actions-wrapper {
   font-size: 10px;
   font-style: normal;
   text-transform: uppercase;
-  color: #F0542D;
+  color: #003f7c;
 }
 .loop-wrapper.news .post-content-meta a:hover,
 .loop-wrapper.news .author a:hover {
-  color: #5C6268;
+  color: #F0542D;
 }
 .loop-wrapper.news .list-item {
   padding-top: 15px;
@@ -7402,10 +7402,10 @@ html.csstransitions .wpv-grid.animated-active.animation-ended.animation-zoom-in 
   box-sizing: border-box;
 }
 .wpv-countdown.regular .wpvc-block .value {
-  font-family: "Raleway";
+  font-family: "Montserrat";
   font-size: 40px;
   font-weight: bold;
-  color: #F0542D;
+  color: #003f7c;
   padding-bottom: 40px;
 }
 .wpv-countdown.regular .wpvc-block .value-label {
@@ -7544,18 +7544,18 @@ html.csstransitions .wpv-grid.animated-active.animation-ended.animation-zoom-in 
   overflow: visible;
   text-align: center;
   vertical-align: middle;
-  font-family: "Raleway";
-  color: #F0542D;
+  font-family: "Montserrat";
+  color: #003f7c;
 }
 .dropcap1 {
   font-size: 30px !important;
   height: 30px;
   line-height: 1em;
   padding: 7px 8px;
-  border: 2px solid #F0542D;
+  border: 2px solid #003f7c;
   width: auto;
   min-width: 1em;
-  color: #F0542D;
+  color: #003f7c;
   margin: -0.04em 15px -0.07em 0;
 }
 .dropcap2 {
@@ -7568,7 +7568,7 @@ html.csstransitions .wpv-grid.animated-active.animation-ended.animation-zoom-in 
   width: 2ex;
 }
 .dropcap2.accent1 {
-  color: #F0542D;
+  color: #003f7c;
 }
 .dropcap2.accent2 {
   color: #364352;
@@ -7588,7 +7588,7 @@ html.csstransitions .wpv-grid.animated-active.animation-ended.animation-zoom-in 
 .dropcap-text {
   display: table-cell;
   vertical-align: middle;
-  font: normal 24px/30px "Raleway";
+  font: normal 24px/30px "Montserrat";
   color: #4A4F55;
 }
 .dropcap-wrapper {
@@ -7697,7 +7697,7 @@ html.touch .services.has-more .open {
 }
 .highlight.dark,
 .highlight.dark:before {
-  background: #90321b;
+  background: #00264a;
 }
 .highlight .highlight-content {
   position: relative;
@@ -7791,7 +7791,7 @@ h6 .icon.shortcode {
   transition: all .5s;
 }
 .linkarea.background-accent1 {
-  background-color: #F0542D;
+  background-color: #003f7c;
 }
 .linkarea.background-accent1:not(:hover) a,
 .linkarea.background-accent1:not(:hover) p,
@@ -7801,7 +7801,7 @@ h6 .icon.shortcode {
 .linkarea.background-accent1:not(:hover) h4,
 .linkarea.background-accent1:not(:hover) h5,
 .linkarea.background-accent1:not(:hover) h6 {
-  color: #ffffff;
+  color: #7cbfff;
 }
 .linkarea.background-accent2 {
   background-color: #364352;
@@ -7896,12 +7896,12 @@ h6 .icon.shortcode {
 }
 .linkarea.accent1.background-transparent {
   background-color: transparent;
-  background-color: rgba(240,84,45,0);
+  background-color: rgba(0,63,124,0);
   border: solid 1px #EDEDED;
 }
 .linkarea.accent1:hover,
 .linkarea.accent1:focus {
-  background-color: #F0542D;
+  background-color: #003f7c;
   box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.05);
 }
 .linkarea.accent1:hover a,
@@ -7909,10 +7909,10 @@ h6 .icon.shortcode {
   text-decoration: none;
 }
 .linkarea.accent1:active {
-  background-color: #ee4115;
+  background-color: #003263;
 }
 .linkarea.accent1:focus {
-  border: 1px solid #c3320e;
+  border: 1px solid #001830;
   outline: none;
 }
 .linkarea.accent2.background-transparent {
@@ -8075,7 +8075,7 @@ h6 .icon.shortcode {
 }
 .linkarea:hover h3 {
   text-decoration: none;
-  color: #F0542D !important;
+  color: #003f7c !important;
   transition: color 0.4s;
 }
 body.single-portfolio .layout-full aside.right {
@@ -8222,7 +8222,7 @@ body.single-portfolio .related-portfolios .portfolios .portfolio_details {
 .portfolios .portfolio-image .thumbnail {
   display: block;
   max-height: none !important;
-  background: #F0542D;
+  background: #003f7c;
   position: relative;
   overflow: hidden;
 }
@@ -8247,13 +8247,13 @@ body.single-portfolio .related-portfolios .portfolios .portfolio_details {
   padding: 10px 10px 0px 10px;
 }
 .portfolios .portfolio_details .title {
-  color: #F0542D;
+  color: #003f7c;
   font-size: 20px;
   line-height: 20px;
   width: 100%;
 }
 .portfolios .portfolio_details .title:hover {
-  color: #5C6268;
+  color: #F0542D;
 }
 .portfolios .portfolio_details .title:last-child {
   margin-bottom: 20px;
@@ -8313,8 +8313,8 @@ body.full .related-portfolios:before {
 }
 .sort_by_cat .inner-wrapper a:hover,
 .sort_by_cat .inner-wrapper a.active {
-  color: #F0542D;
-  border-bottom-color: #F0542D;
+  color: #003f7c;
+  border-bottom-color: #003f7c;
   text-decoration: none;
 }
 .page-header-content .sort_by_cat {
@@ -8358,11 +8358,11 @@ article.type-portfolio .portfolio-text-content .portfolio-content > .grid-1-5 .c
   color: #bababa;
 }
 article.type-portfolio .portfolio-text-content .portfolio-content > .grid-1-5 .cell p a {
-  color: #F0542D;
+  color: #003f7c;
 }
 article.type-portfolio .portfolio-text-content .portfolio-content > .grid-1-5 .cell p a:hover,
 article.type-portfolio .portfolio-text-content .portfolio-content > .grid-1-5 .cell p a.active {
-  color: #5C6268;
+  color: #F0542D;
   text-decoration: none;
 }
 article.type-portfolio .portfolio-text-content img {
@@ -8463,15 +8463,15 @@ article.type-portfolio .portfolio-image-wrapper > img {
   display: inline-block;
   vertical-align: top;
   font-size: 60px;
-  font-family: "Raleway";
+  font-family: "Montserrat";
   line-height: 38px;
 }
 .price-wrapper .value-box .meta {
   display: block;
-  color: #F0542D;
+  color: #003f7c;
   text-transform: uppercase;
   font-size: 11px;
-  font-family: "Raleway";
+  font-family: "Montserrat";
   line-height: 1em;
   background: #ffffff;
   height: auto;
@@ -8494,7 +8494,7 @@ article.type-portfolio .portfolio-image-wrapper > img {
   border-bottom: none;
 }
 .price-wrapper.featured .value-box {
-  background: #F0542D;
+  background: #003f7c;
   position: relative;
 }
 .price-wrapper.featured .value-box .meta {
@@ -8541,9 +8541,9 @@ article.type-portfolio .portfolio-image-wrapper > img {
   left: 0;
 }
 .wpv-progress span:not(.icon) {
-  font: normal 24px/30px "Raleway";
+  font: normal 24px/30px "Montserrat";
   font-size: 40px;
-  color: #F0542D;
+  color: #003f7c;
 }
 .wpv-progress + .wpv-progress-content {
   color: #2B2F34;
@@ -8629,7 +8629,7 @@ article.type-portfolio .portfolio-image-wrapper > img {
   margin-left: -8px;
 }
 .services .thumbnail .icon {
-  background: #F0542D;
+  background: #003f7c;
   color: #ffffff;
   padding: 20px;
   border-radius: 100%;
@@ -8642,7 +8642,7 @@ article.type-portfolio .portfolio-image-wrapper > img {
   -ms-transform: scale(0.9);
   transform: scale(0.9);
   margin-bottom: 10px;
-  border: solid 5px #F0542D;
+  border: solid 5px #003f7c;
 }
 .services .thumbnail .icon:after {
   left: 50%;
@@ -8651,7 +8651,7 @@ article.type-portfolio .portfolio-image-wrapper > img {
   height: 0;
   width: 0;
   position: absolute;
-  border-top-color: #F0542D;
+  border-top-color: #003f7c;
   border-width: 0.4em;
   margin-left: -0.4em;
   bottom: -0.6em;
@@ -8698,15 +8698,15 @@ article.type-portfolio .portfolio-image-wrapper > img {
 .services:hover .services-title a,
 .services:hover .sep-2,
 .services:hover .services-button-wrap a {
-  border-color: #F0542D;
-  color: #F0542D;
+  border-color: #003f7c;
+  color: #003f7c;
 }
 .services:hover .thumbnail a {
   font-size: 120% !important;
 }
 .services:hover .thumbnail a:before,
 .services:hover .thumbnail a:after {
-  border-top-color: #F0542D;
+  border-top-color: #003f7c;
 }
 .services.smallimage .services-inside {
   box-shadow: 0 0 0 transparent;
@@ -8730,7 +8730,7 @@ html.touch .services.smallimage .services-inside,
 html.touch .services.smallimage a,
 .services.smallimage.transitionable.state-hover a {
   text-decoration: none;
-  color: #5C6268;
+  color: #F0542D;
 }
 html.touch .services.smallimage .services-content,
 .services.smallimage.transitionable.state-hover .services-content {
@@ -8743,7 +8743,7 @@ html.touch .services.smallimage .services-content,
 }
 .services.smallimage .shrinking {
   position: relative;
-  background: #F0542D;
+  background: #003f7c;
   text-align: center;
   height: 0;
   overflow: hidden;
@@ -8908,7 +8908,7 @@ table.vamtam-styled tfoot {
   border-radius: 0;
 }
 .wpv-tabs > .ui-tabs-nav li a {
-  font: 300 20px/26px "Raleway";
+  font: 300 20px/26px "Montserrat";
   position: relative;
   display: block;
   padding: 25px;
@@ -8928,13 +8928,13 @@ table.vamtam-styled tfoot {
   padding: 0 15px 0 5px;
 }
 .wpv-tabs > .ui-tabs-nav li.ui-state-default a {
-  color: #F0542D;
+  color: #003f7c;
 }
 .wpv-tabs > .ui-tabs-nav li.ui-state-hover a,
 .wpv-tabs > .ui-tabs-nav li.ui-state-active a,
 .wpv-tabs > .ui-tabs-nav li.ui-state-selected a {
   text-decoration: none;
-  color: #F0542D;
+  color: #003f7c;
 }
 .wpv-tabs .pane {
   clear: both;
@@ -9021,7 +9021,7 @@ body.layout-left-only .wpv-tabs.vertical .ui-tabs-nav {
   opacity: 1;
 }
 .wpv-tabs.vertical .ui-tabs-nav li a {
-  font: 600 12px/14px "Raleway";
+  font: 600 12px/14px "Montserrat";
   display: table;
   padding: 11px 0;
   min-height: 44px;
@@ -9076,7 +9076,7 @@ body.layout-left-only .wpv-tabs.vertical .ui-tabs-nav {
 .wpv-tabs.vertical .ui-tabs-nav li.inactive-block-title > h4,
 .wpv-tabs.vertical .ui-tabs-nav li.inactive-block-title > h5,
 .wpv-tabs.vertical .ui-tabs-nav li.inactive-block-title > h6 {
-  font: 800 26px/30px "Raleway";
+  font: 800 26px/30px "Montserrat";
   word-wrap: break-word;
 }
 .wpv-tabs.vertical .pane {
@@ -9195,7 +9195,7 @@ html.touch .team-member .share-icons .icon,
   font-weight: normal;
 }
 .team-member .team-member-info h3 a:hover {
-  color: #F0542D;
+  color: #003f7c;
 }
 .team-member .team-member-info h5 {
   margin-top: 0;
@@ -9242,7 +9242,7 @@ html.touch .team-member .share-icons .icon,
 }
 .team-member .share-icons a:hover .icon.shortcode.use-hover {
   background: #ffffff;
-  color: #F0542D !important;
+  color: #003f7c !important;
 }
 html.touch .team-member .share-icons {
   -webkit-transform: translate3d( 0, 0, 0 );
@@ -9266,7 +9266,7 @@ html.touch .team-member .share-icons {
 .team-member .share-icons .icon:hover {
   -webkit-transition: color .5s ease 0s;
   transition: color .5s ease 0s;
-  color: #F0542D;
+  color: #003f7c;
 }
 .team-member .description {
   display: none;
@@ -9387,11 +9387,11 @@ div.wpcf7 .wpcf7-form .wpcf7-submit {
   border-widht: 2px;
   padding: 0;
   text-align: center !important;
-  background: #F0542D;
-  color: #ffffff;
+  background: #003f7c;
+  color: #e2f1ff;
   padding: 0.8em 1.6em;
-  color: #F0542D;
-  border: solid 2px #F0542D;
+  color: #003f7c;
+  border: solid 2px #003f7c;
   background: transparent;
   letter-spacing: 2px;
   padding: 0.6em 1.4em;
@@ -9440,7 +9440,7 @@ div.wpcf7 .wpcf7-form .wpcf7-submit:hover span {
   text-decoration: none;
 }
 div.wpcf7 .wpcf7-form .wpcf7-submit span {
-  color: #ffffff;
+  color: #e2f1ff;
 }
 div.wpcf7 .wpcf7-form .wpcf7-submit:hover,
 div.wpcf7 .wpcf7-form .wpcf7-submit:focus,
@@ -9456,7 +9456,7 @@ div.wpcf7 .wpcf7-form .wpcf7-submit:active span {
   color: #ffffff;
 }
 div.wpcf7 .wpcf7-form .wpcf7-submit:hover {
-  background: #F0542D !important;
+  background: #003f7c !important;
   color: #ffffff;
 }
 .email-offers {
@@ -9486,7 +9486,7 @@ div.wpcf7 .wpcf7-form .wpcf7-submit:hover {
   font-size: 20px;
   padding: 17px;
   background: #ffffff !important;
-  color: #F0542D;
+  color: #003f7c;
 }
 .vamtam-rsvp-form .wpcf7-form-control-wrap.your-name {
   width: 100%;
@@ -9529,8 +9529,8 @@ div.wpcf7 .wpcf7-form .wpcf7-submit:hover {
 .wpv-wysija-newsletter .widget_wysija_cont.shortcode_wysija .wysija-submit,
 #main .wpv-wysija-newsletter .widget_wysija_cont.shortcode_wysija .wysija-submit {
   background: none;
-  color: #F0542D;
-  border: 1px solid #F0542D;
+  color: #003f7c;
+  border: 1px solid #003f7c;
   margin-top: 0;
   padding: 10px 30px 10px 30px;
   font-size: 19px;
@@ -9540,8 +9540,8 @@ div.wpcf7 .wpcf7-form .wpcf7-submit:hover {
 #main .wpv-wysija-newsletter .widget_wysija_cont.shortcode_wysija .wysija-submit:hover {
   color: #ffffff !important;
   transition: color .3s ease;
-  background: #F0542D;
-  border-color: #F0542D;
+  background: #003f7c;
+  border-color: #003f7c;
 }
 .wpv-wysija-newsletter .widget_wysija_cont.shortcode_wysija .formError,
 #main .wpv-wysija-newsletter .widget_wysija_cont.shortcode_wysija .formError {
@@ -9616,7 +9616,7 @@ div.wpcf7 .wpcf7-form .wpcf7-submit:hover {
   border-bottom: 1px solid #EDEDED;
   text-overflow: ellipsis;
   word-wrap: break-word;
-  font: normal 14px/20px "Raleway" !important;
+  font: normal 14px/20px "PT Sans" !important;
 }
 .widget li:first-child {
   padding-top: 0;
@@ -9754,8 +9754,8 @@ aside.right .widget > h4+form:after,
   width: 100%;
 }
 .widget_calendar #wp-calendar caption {
-  font: 300 20px/26px "Raleway";
-  color: #F0542D;
+  font: 300 20px/26px "Montserrat";
+  color: #003f7c;
   padding: 0 0 10px 0;
 }
 .widget_calendar #wp-calendar thead {
@@ -9788,7 +9788,7 @@ aside.right .widget > h4+form:after,
   font-weight: bold;
 }
 .widget_calendar #wp-calendar td#today {
-  background: #F0542D;
+  background: #003f7c;
   color: #ffffff;
   border-radius: 3px;
 }
@@ -9922,7 +9922,7 @@ aside .flickr_badge_image img {
 .wpv_posts .wpv-tabs.horizontal .ui-tabs-nav li:hover .icon,
 .wpv_posts .wpv-tabs.horizontal .ui-tabs-nav li.ui-state-active .icon,
 .wpv_posts .wpv-tabs.horizontal .ui-tabs-nav li.ui-state-selected .icon {
-  color: #F0542D;
+  color: #003f7c;
 }
 .wpv_posts .wpv-tabs.horizontal .ui-tabs-nav li.ui-state-active {
   border-bottom-color: #ffffff;
@@ -9934,7 +9934,7 @@ aside .flickr_badge_image img {
   text-decoration: none;
 }
 .wpv_posts .wpv-tabs.horizontal .ui-tabs-nav li a:hover .icon {
-  color: #F0542D !important;
+  color: #003f7c !important;
   font-size: 20px;
 }
 .wpv_posts .wpv-tabs.horizontal .ui-tabs-nav li a .icon {
@@ -9950,7 +9950,7 @@ aside .flickr_badge_image img {
   line-height: 22px;
 }
 .wpv_posts [data-single] .icon {
-  color: #F0542D;
+  color: #003f7c;
 }
 .wpv_posts .ui-tabs-panel {
   background: transparent;
@@ -10046,7 +10046,7 @@ aside .flickr_badge_image img {
 }
 .widget_nav_menu .menu li.current_page_item a,
 .widget_nav_menu .menu li:hover a {
-  color: #5C6268;
+  color: #F0542D;
   transition: all .5s;
   transition: none;
 }
@@ -10060,7 +10060,7 @@ aside .flickr_badge_image img {
   padding: 10px 10px 10px 5px;
   min-width: 100%;
   border: 0 !important;
-  color: #F0542D;
+  color: #003f7c;
 }
 .widget_post_formats .post-format-pad {
   position: relative;
@@ -10092,10 +10092,10 @@ aside .flickr_badge_image img {
   color: #2B2F34;
 }
 .widget_post_formats .post-format-pad .icon:hover {
-  color: #5C6268;
+  color: #F0542D;
 }
 .widget_post_formats .post-format-pad .icon:visited {
-  color: #F0542D;
+  color: #003f7c;
 }
 .widget_post_formats .post-format-pad .icon.standard {
   padding-top: 2px !important;
@@ -10142,7 +10142,7 @@ aside .flickr_badge_image img {
 }
 .widget_search .searchform [type="submit"]:hover,
 .widget_product_search  .woocommerce-product-search [type="submit"]:hover {
-  border: 1px solid #F0542D;
+  border: 1px solid #003f7c;
 }
 .widget_search .searchform:before,
 .widget_product_search  .woocommerce-product-search:before {
@@ -10154,7 +10154,7 @@ aside .flickr_badge_image img {
   width: 45px;
   height: 44px;
   background: #ffffff;
-  color: #F0542D;
+  color: #003f7c;
   content: "\e12d";
   font: normal 26px/48px icomoon;
   cursor: pointer;
@@ -10211,7 +10211,7 @@ aside .social_wrap:after {
   color: #364352;
   background: #ffffff;
   border-color: #b7c3d0;
-  font: 600 46px/48px "Raleway";
+  font: 600 46px/48px "PT Sans";
   font-weight: normal;
   border-radius: 0px;
   margin: 0px;
@@ -10219,7 +10219,7 @@ aside .social_wrap:after {
   line-height: 1em;
 }
 .tagcloud a:hover {
-  background: #F0542D;
+  background: #003f7c;
   text-decoration: none;
   color: #ffffff !important;
 }
@@ -10276,17 +10276,17 @@ aside .social_wrap:after {
   text-align: left;
 }
 #header-404 .line-1 {
-  font: 800 70px/1 "Raleway";
-  color: #F0542D;
+  font: 800 70px/1 "Montserrat";
+  color: #003f7c;
 }
 #header-404 .line-2 {
-  font: 800 50px/1.1 "Raleway";
+  font: 800 50px/1.1 "Montserrat";
   color: #2B2F34;
   line-height: 0.8em;
   padding-bottom: 20px;
 }
 #header-404 .line-3 {
-  font: 800 20px/1 "Raleway";
+  font: 800 20px/1 "Montserrat";
   color: #2B2F34;
 }
 #header-404 .line-4 {
@@ -10295,8 +10295,10 @@ aside .social_wrap:after {
 }
 footer.main-footer {
   position: relative;
-  background: url(https://construction.vamtam.com//wp-content/uploads/2014/12/footer-bg.jpg) no-repeat center bottom scroll;
-  background-color: #34373c;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-attachment: scroll;
+  background-color: #003f7c;
   -webkit-background-size: auto;
   -moz-background-size: auto;
   background-size: auto;
@@ -10317,7 +10319,7 @@ footer.main-footer div.wpcf7 select {
   height: 30px;
 }
 footer.main-footer div.wpcf7 input.wpcf7-submit:hover {
-  border-color: #F0542D;
+  border-color: #003f7c;
 }
 footer.main-footer .sep-3 {
   margin: 0px;
@@ -10328,7 +10330,7 @@ footer.main-footer p,
 footer.main-footer a,
 footer.main-footer th,
 footer.main-footer td {
-  font: normal 13px/20px "Raleway";
+  font: normal 13px/20px "PT Sans";
   color: #AFAFAF;
 }
 footer.main-footer p {
@@ -10348,7 +10350,7 @@ footer.main-footer .widget.widget_nav_menu #menu-horizontal-footer li {
 footer.main-footer .widget.widget_nav_menu #menu-horizontal-footer li:hover a,
 footer.main-footer .widget.widget_nav_menu #menu-horizontal-footer li.current-menu-item a {
   background: none;
-  color: #F0542D !important;
+  color: #003f7c !important;
 }
 footer.main-footer .widget.widget_nav_menu #menu-horizontal-footer li a {
   padding: 5px 20px;
@@ -10385,7 +10387,7 @@ footer.main-footer .widget .widget-title {
   text-align: left;
   padding: 0;
   margin: 0 0 10px;
-  font: 300 14px/16px "Raleway" !important;
+  font: 300 14px/16px "PT Sans" !important;
   color: #ffffff !important;
 }
 footer.main-footer .widget .widget-title > .icon {
@@ -10500,8 +10502,8 @@ footer.main-footer a:hover .icon.shortcode {
   padding-top: 0;
 }
 #footer-sidebars .wpv_posts .wpv-tabs > ul {
-  border-bottom-color: #282a2e;
-  background-color: #34373c;
+  border-bottom-color: #003263;
+  background-color: #003f7c;
 }
 #footer-sidebars .wpv_posts .wpv-tabs > ul li {
   border-bottom: 1px solid transparent !important;
@@ -10509,15 +10511,15 @@ footer.main-footer a:hover .icon.shortcode {
 #footer-sidebars .wpv_posts .wpv-tabs > ul li.ui-state-hover,
 #footer-sidebars .wpv_posts .wpv-tabs > ul li.ui-state-selected,
 #footer-sidebars .wpv_posts .wpv-tabs > ul li.ui-state-active {
-  border-color: #282a2e;
+  border-color: #003263;
   background: transparent;
-  border-bottom-color: #34373c !important;
+  border-bottom-color: #003f7c !important;
 }
 #footer-sidebars .wpv_posts .ui-tabs-panel {
-  border-color: #282a2e;
+  border-color: #003263;
 }
 #footer-sidebars .wpv_posts .posts_list li {
-  border-top-color: #282a2e;
+  border-top-color: #003263;
   padding: 0 0 10px 0;
 }
 .copyrights {
@@ -10565,7 +10567,7 @@ footer.main-footer a:hover .icon.shortcode {
 }
 .copyrights,
 .copyrights * {
-  font: 300 12px/14px "Raleway";
+  font: 300 12px/14px "PT Sans";
   color: #898989;
 }
 #sub-footer-menu ul {
@@ -10579,7 +10581,7 @@ footer.main-footer a:hover .icon.shortcode {
 }
 #sub-footer-menu li a {
   color: #F0542D;
-  font: 300 12px/14px "Raleway";
+  font: 300 12px/14px "PT Sans";
 }
 #sub-footer-menu li:first-child {
   padding-left: 0;
@@ -10601,8 +10603,8 @@ footer.main-footer a:hover .icon.shortcode {
   z-index: 9998;
   border: none !important;
   position: relative;
-  background: #F0542D;
-  text-shadow: 0 -1px 0 #da3810;
+  background: #003f7c;
+  text-shadow: 0 -1px 0 #002549;
   color: #ffffff !important;
   border-radius: 1px 0 0 1px;
   background-clip: padding-box;
@@ -10631,7 +10633,7 @@ footer.main-footer a:hover .icon.shortcode {
   margin-right: 2px;
 }
 #style-switcher #toggle-style-switcher:after {
-  border-right-color: #F0542D !important;
+  border-right-color: #003f7c !important;
 }
 #style-switcher #toggle-style-switcher:before {
   content: "\e035";
@@ -10751,7 +10753,7 @@ body.admin-bar #style-switcher {
 }
 .woocommerce a.remove:hover,
 .woocommerce ul.product_list_widget li a.remove:hover {
-  background: #F0542D !important;
+  background: #003f7c !important;
 }
 .woocommerce .ul.socialcount {
   margin: 0.4em 0px 0.4em 0 !important;
@@ -10774,8 +10776,8 @@ body.admin-bar #style-switcher {
   border-widht: 2px;
   padding: 0;
   text-align: center !important;
-  background: #F0542D;
-  color: #ffffff;
+  background: #003f7c;
+  color: #e2f1ff;
   padding: 0.8em 1.6em;
   border-radius: 0;
 }
@@ -10823,7 +10825,7 @@ body.admin-bar #style-switcher {
   text-decoration: none;
 }
 .woocommerce .lost_reset_password .button span {
-  color: #ffffff;
+  color: #e2f1ff;
 }
 .woocommerce .lost_reset_password .button:hover,
 .woocommerce .lost_reset_password .button:focus,
@@ -10879,11 +10881,11 @@ body.admin-bar #style-switcher {
 }
 .woocommerce .star-rating {
   float: none;
-  color: #F0542D;
+  color: #003f7c;
   font-style: normal;
 }
 .woocommerce .star-rating:before {
-  color: #F0542D;
+  color: #003f7c;
   font-style: normal;
 }
 .woocommerce .woocommerce-result-count {
@@ -10901,11 +10903,11 @@ body.admin-bar #style-switcher {
 }
 .woocommerce form.login {
   border-radius: 1px;
-  border: 3px solid #F0542D;
+  border: 3px solid #003f7c;
 }
 .woocommerce form.checkout_coupon {
   border-radius: 1px;
-  border: 3px solid #F0542D;
+  border: 3px solid #003f7c;
 }
 .woocommerce .woocommerce-message,
 .woocommerce .woocommerce-error,
@@ -10940,8 +10942,8 @@ body.admin-bar #style-switcher {
   border-radius: 0px;
 }
 .woocommerce .woocommerce-error {
-  background-color: rgba(240,84,45,0.1);
-  color: rgba(240,84,45,0.8);
+  background-color: rgba(0,63,124,0.1);
+  color: rgba(0,63,124,0.8);
   text-shadow: none;
 }
 .woocommerce span.onsale,
@@ -10963,7 +10965,7 @@ body.admin-bar #style-switcher {
   line-height: 1;
   min-width: 0;
   min-height: 0;
-  font-family: "Arial", sans-serif;
+  font-family: "Montserrat", sans-serif;
   background: #FCEA00;
   padding: 10px;
 }
@@ -11002,7 +11004,7 @@ body.admin-bar #style-switcher {
 .woocommerce ul.products li.product span.amount {
   font-weight: normal;
   font-size: 0.6em;
-  background: #F0542D;
+  background: #003f7c;
   color: #ffffff;
   padding: 10px 15px;
 }
@@ -11023,7 +11025,7 @@ body.admin-bar #style-switcher {
   left: 0;
   border-radius: 0;
   padding: 5px 10px;
-  background: #F0542D;
+  background: #003f7c;
 }
 .woocommerce ul.products li.product .categories {
   margin: 0;
@@ -11033,7 +11035,7 @@ body.admin-bar #style-switcher {
   font-size: 12px;
 }
 .woocommerce ul.products li.product .price {
-  font: normal 24px/30px "Raleway";
+  font: normal 24px/30px "Montserrat";
   color: #7C8A8D;
   margin-top: -36px;
   position: relative;
@@ -11057,10 +11059,10 @@ body.admin-bar #style-switcher {
   margin-bottom: 0px;
 }
 .woocommerce ul.products li.product .woocommerce-loop-product__title {
-  font: 300 20px/26px "Raleway";
+  font: 300 20px/26px "Montserrat";
   font-size: 18px;
   font-weight: normal;
-  color: #F0542D;
+  color: #003f7c;
   padding-bottom: .1em;
 }
 .woocommerce ul.products li.product a .product-thumbnail {
@@ -11089,7 +11091,7 @@ html.no-touch .woocommerce ul.products li.product a:hover img {
   transform: scale(1.1);
 }
 .woocommerce ul.products li.product a:hover .woocommerce-loop-product__title {
-  color: #5C6268;
+  color: #F0542D;
   box-shadow: none;
   -webkit-box-shadow: none;
 }
@@ -11104,7 +11106,7 @@ html.no-touch .woocommerce ul.products li.product a:hover img {
   margin-right: 10px;
   margin-bottom: 0;
   width: 7em;
-  color: #F0542D;
+  color: #003f7c;
   letter-spacing: 5px;
   font-size: 14px;
 }
@@ -11131,7 +11133,7 @@ html.no-touch .woocommerce ul.products li.product a:hover img {
   margin-top: 0;
 }
 .woocommerce ul.products li.product span.price span.from {
-  font: italic 14px/18px "Raleway";
+  font: italic 14px/18px "PT Sans";
   color: #898989;
 }
 .woocommerce ul.products li.product .add_to_cart_button .btext {
@@ -11151,7 +11153,7 @@ html.no-touch .woocommerce ul.products li.product a:hover img {
 }
 .woocommerce .related.products h2,
 .woocommerce .upsells.products h2 {
-  font: 800 26px/30px "Raleway";
+  font: 800 26px/30px "Montserrat";
   position: relative;
   margin: 0;
   margin-bottom: 30px;
@@ -11189,7 +11191,7 @@ html.no-touch .woocommerce ul.products li.product a:hover img {
   margin-bottom: 30px;
 }
 .woocommerce div.product p.price span.from {
-  font: italic 14px/18px "Raleway";
+  font: italic 14px/18px "PT Sans";
   color: #898989;
 }
 .woocommerce div.product .woocommerce-tabs {
@@ -11246,7 +11248,7 @@ html.no-touch .woocommerce ul.products li.product a:hover img {
   box-shadow: none;
   color: #2B2F34;
   text-decoration: none;
-  border-bottom: solid 3px #F0542D;
+  border-bottom: solid 3px #003f7c;
   background: none;
 }
 .woocommerce div.product .woocommerce-tabs > ul.tabs li a:hover .icon {
@@ -11263,7 +11265,7 @@ html.no-touch .woocommerce ul.products li.product a:hover img {
   background: none;
 }
 .woocommerce div.product .woocommerce-tabs > ul.tabs li.active a {
-  border-bottom: solid 3px #F0542D;
+  border-bottom: solid 3px #003f7c;
   background: none;
   color: #2B2F34;
 }
@@ -11294,11 +11296,11 @@ html.no-touch .woocommerce ul.products li.product a:hover img {
 }
 .woocommerce div.product form.cart > .single_add_to_cart_button {
   padding: .7em 2em;
-  border: 2px solid #F0542D;
+  border: 2px solid #003f7c;
   border-radius: 1px;
   background: transparent;
   box-shadow: none;
-  color: #F0542D;
+  color: #003f7c;
   text-transform: uppercase;
   text-shadow: none;
   font-style: normal;
@@ -11306,8 +11308,8 @@ html.no-touch .woocommerce ul.products li.product a:hover img {
 }
 .woocommerce div.product form.cart > .single_add_to_cart_button:hover,
 .woocommerce div.product form.cart > .single_add_to_cart_button:hover span {
-  border-color: #F0542D;
-  background: #F0542D;
+  border-color: #003f7c;
+  background: #003f7c;
   color: #ffffff;
   transition: color 0.3s;
 }
@@ -11348,7 +11350,7 @@ html.no-touch .woocommerce ul.products li.product a:hover img {
 .woocommerce.woocommerce-checkout .product-subtotal .amount,
 .woocommerce.woocommerce-checkout .cart-subtotal .amount,
 .woocommerce.woocommerce-checkout .order-total .amount {
-  font: 600 12px/14px "Raleway";
+  font: 600 12px/14px "Montserrat";
   color: inherit;
   font-weight: bold;
   font-size: 1.3em;
@@ -11373,7 +11375,7 @@ html.no-touch .woocommerce ul.products li.product a:hover img {
 }
 .woocommerce.woocommerce-checkout h3 {
   margin-bottom: .8em;
-  font: 300 20px/26px "Raleway";
+  font: 300 20px/26px "Montserrat";
 }
 .woocommerce.woocommerce-checkout #payment div.payment_box {
   background: #EDEDED;
@@ -11407,8 +11409,8 @@ html.no-touch .woocommerce ul.products li.product a:hover img {
   border-widht: 2px;
   padding: 0;
   text-align: center !important;
-  background: #F0542D;
-  color: #ffffff;
+  background: #003f7c;
+  color: #e2f1ff;
 }
 .woocommerce.woocommerce-checkout #place_order,
 .woocommerce.woocommerce-checkout #place_order span {
@@ -11454,7 +11456,7 @@ html.no-touch .woocommerce ul.products li.product a:hover img {
   text-decoration: none;
 }
 .woocommerce.woocommerce-checkout #place_order span {
-  color: #ffffff;
+  color: #e2f1ff;
 }
 .woocommerce.woocommerce-checkout #place_order:hover,
 .woocommerce.woocommerce-checkout #place_order:focus,
@@ -11554,7 +11556,7 @@ html.no-touch .woocommerce ul.products li.product a:hover img {
   margin-bottom: 6px;
 }
 .woocommerce #reviews #comments .comment-meta > .comment-author-link {
-  font: 300 20px/26px "Raleway";
+  font: 300 20px/26px "Montserrat";
 }
 .woocommerce #reviews #comments h6.comment-reply-link {
   position: absolute;
@@ -11565,11 +11567,11 @@ html.no-touch .woocommerce ul.products li.product a:hover img {
 }
 .woocommerce #reviews #comments h6.comment-reply-link a {
   margin: 0 0 0 5px;
-  color: #F0542D;
+  color: #003f7c;
   font-size: 12px;
 }
 .woocommerce #reviews #comments h6.comment-reply-link a:hover {
-  color: #5C6268;
+  color: #F0542D;
 }
 .woocommerce #reviews #comments h6.comment-reply-link:before {
   position: relative;
@@ -11608,7 +11610,7 @@ html.no-touch .woocommerce ul.products li.product a:hover img {
   font-size: 14px !important;
 }
 .woocommerce #reviews #comments ol.commentlist li .comment-meta div.star-rating span {
-  color: #F0542D !important;
+  color: #003f7c !important;
   font-size: 14px !important;
 }
 .woocommerce #reviews #comments ol.commentlist li .comment-meta div.star-rating span:before {
@@ -11638,8 +11640,8 @@ html.no-touch .woocommerce ul.products li.product a:hover img {
   border-widht: 2px;
   padding: 0;
   text-align: center !important;
-  background: #F0542D;
-  color: #ffffff;
+  background: #003f7c;
+  color: #e2f1ff;
   padding: 0.8em 1.6em;
 }
 .woocommerce #commentform .form-submit input,
@@ -11686,7 +11688,7 @@ html.no-touch .woocommerce ul.products li.product a:hover img {
   text-decoration: none;
 }
 .woocommerce #commentform .form-submit input span {
-  color: #ffffff;
+  color: #e2f1ff;
 }
 .woocommerce #commentform .form-submit input:hover,
 .woocommerce #commentform .form-submit input:focus,
@@ -11723,7 +11725,7 @@ html.placeholder .woocommerce form .form-row label[for].checkbox {
 .woocommerce div.product .summary .star-rating {
   margin: 13px 8px 15px 0;
   width: 7em;
-  color: #F0542D;
+  color: #003f7c;
   letter-spacing: 5px;
   font-size: 14px;
 }
@@ -11747,9 +11749,9 @@ html.placeholder .woocommerce form .form-row label[for].checkbox {
   margin: 0 0 5px 0;
 }
 .woocommerce div.product .summary form.variations_form .single_add_to_cart_button {
-  font: normal 14px/20px "Raleway";
+  font: normal 14px/20px "PT Sans";
   border-radius: 1px;
-  background: #F0542D;
+  background: #003f7c;
   color: #ffffff;
   text-transform: uppercase;
   font-weight: normal;
@@ -11775,7 +11777,7 @@ html.placeholder .woocommerce form .form-row label[for].checkbox {
 .woocommerce div.product .summary .price .amount,
 .woocommerce div.product .summary .price ins .amount,
 .woocommerce div.product .summary .price del .amount {
-  font: 800 26px/30px "Raleway";
+  font: 800 26px/30px "Montserrat";
 }
 .woocommerce div.product .summary .price del {
   opacity: 1;
@@ -11801,13 +11803,13 @@ html.placeholder .woocommerce form .form-row label[for].checkbox {
 }
 .woocommerce .price .amount,
 .woocommerce .price ins .amount {
-  font: normal 24px/30px "Raleway";
+  font: normal 24px/30px "Montserrat";
   font-style: normal;
   color: #2B2F34;
   text-decoration: none !important;
 }
 .woocommerce .price del .amount {
-  font: 600 12px/14px "Raleway";
+  font: 600 12px/14px "Montserrat";
   color: #2B2F34;
   text-decoration: line-through;
 }
@@ -11822,13 +11824,13 @@ html.placeholder .woocommerce form .form-row label[for].checkbox {
   line-height: 25px;
 }
 .woocommerce .product_meta a {
-  color: #F0542D;
+  color: #003f7c;
 }
 .woocommerce .product_meta a:hover {
-  color: #5C6268;
+  color: #F0542D;
 }
 .woocommerce .product_meta a:visited {
-  color: #F0542D;
+  color: #003f7c;
 }
 .woocommerce table.shop_table th,
 .woocommerce table.shop_table tfoot th td {
@@ -11937,8 +11939,8 @@ html.placeholder .woocommerce form .form-row label[for].checkbox {
   border-widht: 2px;
   padding: 0;
   text-align: center !important;
-  background: #F0542D;
-  color: #ffffff;
+  background: #003f7c;
+  color: #e2f1ff;
   padding: 0.5em 1.4em;
 }
 .woocommerce.woocommerce-cart .cart-collaterals .checkout-button,
@@ -11985,7 +11987,7 @@ html.placeholder .woocommerce form .form-row label[for].checkbox {
   text-decoration: none;
 }
 .woocommerce.woocommerce-cart .cart-collaterals .checkout-button span {
-  color: #ffffff;
+  color: #e2f1ff;
 }
 .woocommerce.woocommerce-cart .cart-collaterals .checkout-button:hover,
 .woocommerce.woocommerce-cart .cart-collaterals .checkout-button:focus,
@@ -12030,7 +12032,7 @@ html.placeholder .woocommerce form .form-row label[for].checkbox {
 .woocommerce.woocommerce-cart .product-subtotal .amount,
 .woocommerce.woocommerce-cart .cart-subtotal .amount,
 .woocommerce.woocommerce-cart .order-total .amount {
-  font: 600 12px/14px "Raleway";
+  font: 600 12px/14px "Montserrat";
   color: #242323;
   font-weight: bold;
   font-size: 1.3em;
@@ -12128,14 +12130,14 @@ html.placeholder .woocommerce form .form-row label[for].checkbox {
 }
 .woocommerce.woocommerce-cart .cart_totals > h2,
 .woocommerce.woocommerce-cart .shipping_calculator > h2 {
-  font: 300 20px/26px "Raleway";
+  font: 300 20px/26px "Montserrat";
   text-align: left;
 }
 .woocommerce.woocommerce-cart .cart_totals > h2 {
   margin-top: 0;
 }
 .woocommerce.woocommerce-cart .shipping-calculator-button {
-  font: 300 20px/26px "Raleway";
+  font: 300 20px/26px "Montserrat";
 }
 .woocommerce.woocommerce-cart .shipping-calculator-button select {
   padding: 10px;
@@ -12169,8 +12171,8 @@ html.placeholder .woocommerce form .form-row label[for].checkbox {
   border-widht: 2px;
   padding: 0;
   text-align: center !important;
-  background: #F0542D;
-  color: #ffffff;
+  background: #003f7c;
+  color: #e2f1ff;
   padding: 0.8em 1.6em;
   border: none !important;
   box-shadow: none !important;
@@ -12219,7 +12221,7 @@ html.placeholder .woocommerce form .form-row label[for].checkbox {
   text-decoration: none;
 }
 .woocommerce .pp_content_container #respond #commentform .form-submit input[type="submit"] span {
-  color: #ffffff;
+  color: #e2f1ff;
 }
 .woocommerce .pp_content_container #respond #commentform .form-submit input[type="submit"]:hover,
 .woocommerce .pp_content_container #respond #commentform .form-submit input[type="submit"]:focus,
@@ -12252,8 +12254,8 @@ html.placeholder .woocommerce form .form-row label[for].checkbox {
   border-widht: 2px;
   padding: 0;
   text-align: center !important;
-  background: #F0542D;
-  color: #ffffff;
+  background: #003f7c;
+  color: #e2f1ff;
   padding-right: .8em;
   padding-left: .8em;
   box-shadow: none;
@@ -12302,7 +12304,7 @@ html.placeholder .woocommerce form .form-row label[for].checkbox {
   text-decoration: none;
 }
 .woocommerce .add_review a.button span {
-  color: #ffffff;
+  color: #e2f1ff;
 }
 .woocommerce .add_review a.button:hover,
 .woocommerce .add_review a.button:focus,
@@ -12318,12 +12320,12 @@ html.placeholder .woocommerce form .form-row label[for].checkbox {
   color: #b7c3d0;
 }
 .woocommerce ul.cart_list a {
-  font: 600 12px/14px "Raleway";
+  font: 600 12px/14px "Montserrat";
   padding: 5px 0 10px 0;
   font-size: 14px;
 }
 .woocommerce ul.product-categories li.current-cat a {
-  color: #5C6268;
+  color: #F0542D;
 }
 .woocommerce .myaccount_user {
   padding-bottom: 70px;
@@ -12338,7 +12340,7 @@ body.woocommerce-checkout form.login {
   margin-bottom: 5em;
 }
 body.woocommerce-checkout .col-2 {
-  border: 3px solid #F0542D;
+  border: 3px solid #003f7c;
   padding: 20px;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -12346,7 +12348,7 @@ body.woocommerce-checkout .col-2 {
 .cart-collaterals {
   width: auto !important;
   padding: 20px;
-  border: solid 3px #F0542D;
+  border: solid 3px #003f7c;
 }
 .cart-collaterals .cart_totals table tr:first-child th {
   width: 69%;
@@ -12384,9 +12386,9 @@ body.woocommerce-checkout .col-2 {
   border-widht: 2px;
   padding: 0;
   text-align: center !important;
-  background: #F0542D;
-  color: #ffffff;
-  font: normal 14px/20px "Raleway";
+  background: #003f7c;
+  color: #e2f1ff;
+  font: normal 14px/20px "PT Sans";
   box-shadow: none;
   padding: 0.8em 1.6em;
   border: none;
@@ -12579,7 +12581,7 @@ body.woocommerce-checkout .col-2 {
 .woocommerce .products input.button span,
 .woocommerce .products input[type=button] span,
 .woocommerce .products button.button span {
-  color: #ffffff;
+  color: #e2f1ff;
 }
 .woocommerce .page-wrapper #review_form #respond .form-submit input:hover,
 .woocommerce .page-wrapper #review_form #respond .form-submit input:focus,
@@ -12734,12 +12736,12 @@ body.sticky-header-type-half-over.sticky-header.wpv-not-scrolled .layout-logo-te
   width: 20px;
   height: 20px;
   border-radius: 100px;
-  background: #F0542D;
+  background: #003f7c;
   color: #ffffff;
   text-align: center;
   font-style: normal;
   font-size: 10px;
-  font-family: "Raleway";
+  font-family: "PT Sans";
   line-height: 8px;
   font-weight: 900;
 }
@@ -12756,7 +12758,7 @@ body.sticky-header-type-half-over.sticky-header.wpv-not-scrolled .layout-logo-te
 }
 .vamtam-cart-dropdown-link:hover {
   text-decoration: none;
-  color: #F0542D;
+  color: #003f7c;
 }
 .fixed-header-box .cart-dropdown {
   display: table-cell;
@@ -12799,10 +12801,10 @@ body.sticky-header-type-half-over.sticky-header.wpv-not-scrolled .layout-logo-te
   box-shadow: none;
 }
 .woocommerce.widget span.amount {
-  color: #F0542D;
+  color: #003f7c;
 }
 .woocommerce ul.product_list_widget li a {
-  font: 600 12px/14px "Raleway";
+  font: 600 12px/14px "Montserrat";
   padding: 5px 0 5px 0;
   font-size: 14px;
 }
@@ -12831,7 +12833,7 @@ body.sticky-header-type-half-over.sticky-header.wpv-not-scrolled .layout-logo-te
 }
 .woocommerce.widget_shopping_cart .widget_shopping_cart_content .total strong,
 .woocommerce.widget_shopping_cart .widget_shopping_cart_content .total .amount {
-  font: 600 12px/14px "Raleway";
+  font: 600 12px/14px "Montserrat";
   color: #242323;
   font-size: 1.1em;
   font-weight: normal;
@@ -12841,7 +12843,7 @@ body.sticky-header-type-half-over.sticky-header.wpv-not-scrolled .layout-logo-te
   font-size: 1.4em;
 }
 .woocommerce.widget_shopping_cart .widget_shopping_cart_content .quantity .amount {
-  font: normal 14px/20px "Raleway";
+  font: normal 14px/20px "PT Sans";
   color: #767676;
 }
 .woocommerce.widget_shopping_cart .widget_shopping_cart_content p:last-child {
@@ -12953,8 +12955,8 @@ body.sticky-header-type-half-over.sticky-header.wpv-not-scrolled .layout-logo-te
   border-widht: 2px;
   padding: 0;
   text-align: center !important;
-  background: #F0542D;
-  color: #ffffff;
+  background: #003f7c;
+  color: #e2f1ff;
   padding: 0.5em 1em;
   box-shadow: none;
 }
@@ -13002,7 +13004,7 @@ body.sticky-header-type-half-over.sticky-header.wpv-not-scrolled .layout-logo-te
   text-decoration: none;
 }
 .woocommerce.widget_shopping_cart .widget_shopping_cart_content .buttons a.checkout span {
-  color: #ffffff;
+  color: #e2f1ff;
 }
 .woocommerce.widget_shopping_cart .widget_shopping_cart_content .buttons a.checkout:hover,
 .woocommerce.widget_shopping_cart .widget_shopping_cart_content .buttons a.checkout:focus,
@@ -13036,7 +13038,7 @@ body.sticky-header-type-half-over.sticky-header.wpv-not-scrolled .layout-logo-te
   width: 1em;
   height: 1em;
   border: 0.3em solid #ffffff !important;
-  background: #F0542D;
+  background: #003f7c;
   box-shadow: none !important;
   top: -0.4em;
 }
@@ -13058,8 +13060,8 @@ body.sticky-header-type-half-over.sticky-header.wpv-not-scrolled .layout-logo-te
   border-widht: 2px;
   padding: 0;
   text-align: center !important;
-  background: #F0542D;
-  color: #ffffff;
+  background: #003f7c;
+  color: #e2f1ff;
   margin-top: 15px;
   padding: 0.5em 1.1em;
   box-shadow: none;
@@ -13111,7 +13113,7 @@ body.sticky-header-type-half-over.sticky-header.wpv-not-scrolled .layout-logo-te
   text-decoration: none;
 }
 .woocommerce.widget_price_filter .price_slider_amount .button span {
-  color: #ffffff;
+  color: #e2f1ff;
 }
 .woocommerce.widget_price_filter .price_slider_amount .button:hover,
 .woocommerce.widget_price_filter .price_slider_amount .button:focus,
@@ -13135,7 +13137,7 @@ body.sticky-header-type-half-over.sticky-header.wpv-not-scrolled .layout-logo-te
 }
 .woocommerce.widget_price_filter .from,
 .woocommerce.widget_price_filter .to {
-  color: #F0542D;
+  color: #003f7c;
   font-size: 1.3em;
 }
 .woocommerce.widget_layered_nav_filters ul li {
@@ -13248,7 +13250,7 @@ img.alignnone {
 .entry-caption,
 .gallery-caption {
   margin-top: 0;
-  font: italic 14px/18px "Raleway";
+  font: italic 14px/18px "PT Sans";
   color: #898989;
 }
 .wp-smiley,
@@ -13400,12 +13402,12 @@ cite {
     padding: 20px 20px 20px 10px;
     background: #ffffff;
     box-shadow: 0 1px 1px #e3e3e3;
-    color: #F0542D;
+    color: #003f7c;
     text-align: center;
     font-size: 16px;
   }
   .wpv-grid.has-more-button .column-read-more-btn:hover {
-    color: #5C6268;
+    color: #F0542D;
   }
   .move-into-slider,
   .move-into-slider-2 {
@@ -13934,7 +13936,7 @@ cite {
     text-align: left;
   }
   .responsive-layout #header-breadcrumbs a {
-    color: #F0542D;
+    color: #003f7c;
   }
   .responsive-layout #header-breadcrumbs:after {
     position: absolute;
@@ -14452,7 +14454,7 @@ cite {
     padding: 0;
     width: 35px;
     height: 35px;
-    color: #F0542D;
+    color: #003f7c;
     text-indent: 0;
     font-size: 35px;
     line-height: .9;
@@ -14579,7 +14581,7 @@ cite {
   }
   .responsive-layout .mp-menu ul li a:not(.mp-back):hover {
     background: transparent;
-    color: #F0542D;
+    color: #003f7c;
   }
   .responsive-layout .mp-menu .mp-level.mp-level-overlay > ul > li > a,
   .responsive-layout .mp-level.mp-level-overlay > ul > li:first-child > a {
@@ -14597,7 +14599,7 @@ cite {
     color: #ffffff;
     text-transform: uppercase;
     letter-spacing: 1px;
-    font: normal 14px/20px "Raleway";
+    font: normal 14px/20px "PT Sans";
     font-weight: bold;
   }
   .responsive-layout .mp-back::after {

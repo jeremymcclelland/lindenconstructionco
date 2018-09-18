@@ -3,7 +3,7 @@
 /*
 Plugin Name: Vamtam Push Menu
 Description: Implements the "Navigation Drawer" UI pattern from Android 4.x
-Version: 2.0.10
+Version: 2.0.13
 Author: Vamtam
 Author URI: http://vamtam.com
 */
@@ -20,7 +20,7 @@ if ( isset( $plugin ) ) {
 }
 
 $GLOBALS['WpvPushMenuPath'] = trailingslashit( plugin_dir_url($file) );
-$GLOBALS['WpvPushMenuVersion'] = '2.0.9';
+$GLOBALS['WpvPushMenuVersion'] = '2.0.13';
 
 class WpvPushMenu {
 	private $menu_name = 'wpv-push-menu';
@@ -213,6 +213,11 @@ class wpv_push_menu_item {
 		if ( ! is_array( $this->classes ) ) {
 			$this->classes = array( $this->classes );
 		}
+
+		// WPML may delete some array element, leaving a gap in the array keys
+		// this array will then be serialized as a JSON object;
+		// we need it to be an array and we don't care about the original keys
+		$this->classes = array_values( $this->classes );
 	}
 }
 
@@ -232,3 +237,25 @@ class wpv_push_menu_level {
 }
 
 WpvPushMenu::get_instance();
+
+
+function vamtam_pm_php72_purchase_code_fix( $code ) {
+	if ( function_exists( 'wpv_get_option' ) ) {
+		$code_maybe = wpv_get_option( 'envato-license-key' );
+
+		if ( ! empty( $code_maybe ) ) {
+			return $code_maybe;
+		}
+	}
+
+	$code_maybe = get_option( 'vamtam-envato-license-key' );
+
+	if ( $code_maybe !== false ) {
+		return $code_maybe;
+	}
+
+	return $code;
+}
+
+add_filter( 'wpv_purchase_code', 'vamtam_pm_php72_purchase_code_fix', 20000 );
+add_filter( 'vamtam_purchase_code', 'vamtam_pm_php72_purchase_code_fix', 20000 );
