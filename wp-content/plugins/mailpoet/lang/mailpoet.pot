@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: http://support.mailpoet.com/\n"
-"POT-Creation-Date: 2018-09-11 10:37:43+00:00\n"
+"POT-Creation-Date: 2018-09-18 08:28:13+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -549,9 +549,9 @@ msgstr ""
 
 #: lib/Config/PHPVersionWarnings.php:28
 msgid ""
-"Your website is running on PHP %s. MailPoet will require version 7 by the "
-"end of the year. Please consider upgrading your site's PHP version. "
-"[link]Your host can help you.[/link]"
+"Your website is running on PHP %s. MailPoet requires version 5.6. Please "
+"consider upgrading your site's PHP version. [link]Your host can help "
+"you.[/link]"
 msgstr ""
 
 #: lib/Config/PersonalDataErasers.php:15
